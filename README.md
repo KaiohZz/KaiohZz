@@ -7,7 +7,7 @@ I build web and mobile applications, with a strong interest in software architec
 - 🎓 Finishing my Bachelor's in Computer Science at **PUC Minas** (expected 2027)
 - 🔭 Currently building projects in full stack development and exploring machine learning
 - 🌍 Open to junior software roles, including relocation to **Germany** and the **United Kingdom**
-- 🗣️ Languages: English (fluent), German (learning), Japanese (beginner), Libras (beginner)
+- 🗣️ Languages: English (fluent), German (beginner), Japanese (beginner), Sign Language (beginner)
 
 ---
 
