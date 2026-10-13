@@ -51,14 +51,11 @@ Scrum · Requirements engineering · Business rules modeling · Multi-tenant arc
 **Digital Hub: Fintech + White Label ERP platform**
 Led the full technical specification: architecture, business rules and requirements engineering. Designed a 3-tier multi-tenant model (platform, reseller, tenant), a pro-rata receivables advance engine, automatic commission and MDR split logic, and integration flows with BaaS providers and acquirers.
 
-**Distributed sensor system for traffic light control** · [repository](LINK_HERE)
+**Distributed sensor system for traffic light control** · [repository](https://github.com/KaiohZz/TrabPratDistribuida)
 Designed and implemented a real-time distributed system that manages synchronized intersections, covering sensor reading, network communication and deadlock prevention.
 
-**Roadscan: pavement inspection from dashcam footage** · [repository](LINK_HERE)
+**Roadscan: pavement inspection from dashcam footage** · [repository](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti6-2026-1-g11-smart-dashcam)
 Built the complete frontend for a platform that automatically identifies road damage from dashcam images.
-
-**SINTRA: Intelligent Traffic System** · [repository](LINK_HERE)
-Responsible for the software architecture and the algorithms for traffic data analysis and management.
 
 ---
 
