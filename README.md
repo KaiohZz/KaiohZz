@@ -1,4 +1,4 @@
-# Hi, I'm Kaio Henrique Santos 👋
+# Hello There, I'm Kaio Santos 👋
 
 **Full Stack Developer** · Computer Science student at PUC Minas · Belo Horizonte, Brazil
 
