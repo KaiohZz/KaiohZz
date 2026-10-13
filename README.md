@@ -48,14 +48,20 @@ Scrum · Requirements engineering · Business rules modeling · Multi-tenant arc
 
 ## 🚀 Featured projects
 
-**Digital Hub: Fintech + White Label ERP platform**
-Led the full technical specification: architecture, business rules and requirements engineering. Designed a 3-tier multi-tenant model (platform, reseller, tenant), a pro-rata receivables advance engine, automatic commission and MDR split logic, and integration flows with BaaS providers and acquirers.
+**Distributed traffic light control system** · [repository](https://github.com/KaiohZz/TrabPratDistribuida)
+Real-time distributed system that manages synchronized intersections, covering sensor reading, network communication and deadlock prevention.
 
-**Distributed sensor system for traffic light control** · [repository](https://github.com/KaiohZz/TrabPratDistribuida)
-Designed and implemented a real-time distributed system that manages synchronized intersections, covering sensor reading, network communication and deadlock prevention.
+**Digital Hub: Fintech + White Label ERP platform** · private project
+Led the full technical specification: architecture, business rules and requirements engineering. Designed a 3-tier multi-tenant model (platform, reseller, tenant), a pro-rata receivables advance engine, automatic commission and MDR split logic, and integration flows with BaaS providers and acquirers.
 
 **Roadscan: pavement inspection from dashcam footage** · [repository](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti6-2026-1-g11-smart-dashcam)
 Built the complete frontend for a platform that automatically identifies road damage from dashcam images.
+
+**Fightball** · [repository](https://github.com/KaiohZz/Fightball)
+Game developed in Godot (GDScript) during a vacation break.
+
+**vitedex** · [repository](https://github.com/KaiohZz/vitedex)
+Practice project consuming a REST API, built with TypeScript.
 
 ---
 
